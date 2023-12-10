@@ -8,4 +8,4 @@
 
 ## STEP-BY-STEP DOCUMENTATION
 
-1. **Prepare and Install Headless Raspbian OS in Raspberry Pi**
+**1. Prepare and Install Headless Raspbian OS in Raspberry Pi**
