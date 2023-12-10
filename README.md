@@ -1,4 +1,4 @@
-# INFORMATION ASSURANCE AND SECURITY - FINAL PROJECT
+![3 1](https://github.com/ha-zee/INFORMATION-ASSURANCE-AND-SECURITY/assets/146160055/32756574-59f0-4c47-b7ff-dc03936f3e91)# INFORMATION ASSURANCE AND SECURITY - FINAL PROJECT
 
  **Group 9 - BSCS 3A**
 * Hazel A. Llorente
@@ -8,7 +8,7 @@
 
 ## STEP-BY-STEP DOCUMENTATION
 
-**1. Prepare and Install Headless Raspbian OS in Raspberry Pi**
+## 1. Prepare and Install Headless Raspbian OS in Raspberry Pi
 * Download and Install Raspberry Pi Imager to a computer. Here is the link of [Raspberry Pi Imager](https://www.raspberrypi.com/software/).
 ![1 1](https://github.com/ha-zee/INFORMATION-ASSURANCE-AND-SECURITY/assets/146160055/93c81343-e975-4a9a-802e-cbdd5cb7a9ee)
  ![1 1 1](https://github.com/ha-zee/INFORMATION-ASSURANCE-AND-SECURITY/assets/146160055/c5e03a1e-f5c7-44c3-8dd9-4dfb536ec32b)
@@ -45,14 +45,36 @@
 ![Screenshot 2023-12-10 161736](https://github.com/ha-zee/INFORMATION-ASSURANCE-AND-SECURITY/assets/146160055/8d6a747a-3754-4f47-a00b-2190c2395cac)
 
 
-**2. Connect to Raspberry Pi via SSH using the terminal then update the OS.**
+## 2. Connect to Raspberry Pi via SSH using the terminal then update the OS.
 * Open command prompt and type the following command to update and upgrade:
-  * ssh <username>@<hostname>
+  * ***ssh <username>@<hostname>***
     * Example: ssh group9@172.18.90.149
   ![1](https://github.com/ha-zee/INFORMATION-ASSURANCE-AND-SECURITY/assets/146160055/4e76ce6c-7fa0-4fa6-b74a-eab50834c82f)
 
-  * sudo  apt update
+  * ***sudo  apt update***
   ![2 1](https://github.com/ha-zee/INFORMATION-ASSURANCE-AND-SECURITY/assets/146160055/9e5fbaa0-0b92-461e-8acd-e2753e7c2f9b)
 
-  * sudo apt upgrade
+  * ***sudo apt upgrade***
   ![2 2](https://github.com/ha-zee/INFORMATION-ASSURANCE-AND-SECURITY/assets/146160055/338d36ea-c535-41aa-afca-269eb02ad23d)
+
+## 3. Deploying LAMP (Linux Apache MySQL PHP) Stack in raspberry Pi
+* deploying a LAMP stack on a Raspberry Pi involves installing and configuring several software components:
+  * ***sudo apt install apache2***
+    ![3 1](https://github.com/ha-zee/INFORMATION-ASSURANCE-AND-SECURITY/assets/146160055/18dcf34a-63a2-45db-9510-567a321136e2)
+  * ***sudo apt install mariadb-server***
+    ![10 1](https://github.com/ha-zee/INFORMATION-ASSURANCE-AND-SECURITY/assets/146160055/6a45f0be-d826-4f50-b0d6-3d9ab454358c)
+  * ***sudo mysql_secure_installation***
+    ![14 1](https://github.com/ha-zee/INFORMATION-ASSURANCE-AND-SECURITY/assets/146160055/397498d4-5656-4968-85f7-340e3d151e6d)
+  * ***sudo apt install php libapache2-mod-php php-mysql***
+    ![19](https://github.com/ha-zee/INFORMATION-ASSURANCE-AND-SECURITY/assets/146160055/e1d0b56b-dfa0-4c28-863e-b07d3101997e)
+  * ***sudo apt-get install php***
+    ![25](https://github.com/ha-zee/INFORMATION-ASSURANCE-AND-SECURITY/assets/146160055/6f9ba469-88af-4de6-9b4c-13c76d3ce1a8)
+  * ***sudo apt install phpmyadmin***
+    ![26](https://github.com/ha-zee/INFORMATION-ASSURANCE-AND-SECURITY/assets/146160055/5c814df6-df77-4b1e-b892-73eb8abc017d)
+
+## 4. Enabling and controlling Raspberry Pi using VNC.
+
+
+
+
+    
