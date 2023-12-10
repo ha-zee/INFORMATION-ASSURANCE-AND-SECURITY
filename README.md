@@ -27,6 +27,7 @@
 * In the OS Customization, in _GENERAL_ we need to set hostname, username (_group9_) and password (_admin_). Also, set Configure wireless LAN the **CSPC BayanihanET** and set the wireless LAN country ro **PH** and set the locale settings then **SAVE**.
 > [!NOTE]
 > Do not change the password of the wireless LAN in your OS customisation.
+
 ![Screenshot 2023-12-10 161439](https://github.com/ha-zee/INFORMATION-ASSURANCE-AND-SECURITY/assets/146160055/c3f16873-883f-49fb-885f-b35713ff26ad)
 
 * Click _SERVICES_ to enable SSH and use password authentication, then **SAVE**.
