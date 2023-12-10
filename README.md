@@ -71,10 +71,11 @@
     ![25](https://github.com/ha-zee/INFORMATION-ASSURANCE-AND-SECURITY/assets/146160055/6f9ba469-88af-4de6-9b4c-13c76d3ce1a8)
   * ***sudo apt install phpmyadmin***
     ![26](https://github.com/ha-zee/INFORMATION-ASSURANCE-AND-SECURITY/assets/146160055/5c814df6-df77-4b1e-b892-73eb8abc017d)
+  * ![30](https://github.com/ha-zee/INFORMATION-ASSURANCE-AND-SECURITY/assets/146160055/05345bc8-71e2-489e-b947-66b81828e2ce)
 
 ## 4. Enabling and controlling Raspberry Pi using VNC.
 
-
-
-
+  * Access the Raspberry Pi Configuration to enable VNC on the OS type ***sudo raspi-config*** command.
+  * Download and Install RealVNC on your windows. Here is the link [RealVNC](https://www.realvnc.com/en/connect/download/viewer/).
     
+
