@@ -9,5 +9,6 @@
 ## STEP-BY-STEP DOCUMENTATION
 
 **1. Prepare and Install Headless Raspbian OS in Raspberry Pi**
-* Download Raspberry Pi Imager in your windows. Here is the link [GitHub Pages](https://www.raspberrypi.com/software/).
+* Download Raspberry Pi Imager in your windows. Here is the link [Raspberry Pi Imager](https://www.raspberrypi.com/software/).
+![1 1](https://github.com/ha-zee/INFORMATION-ASSURANCE-AND-SECURITY/assets/146160055/93c81343-e975-4a9a-802e-cbdd5cb7a9ee)
 
