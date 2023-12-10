@@ -87,6 +87,6 @@
     ![37](https://github.com/ha-zee/INFORMATION-ASSURANCE-AND-SECURITY/assets/146160055/0bf208f9-d2b0-4b12-aa72-805677bfd102)
     ![38](https://github.com/ha-zee/INFORMATION-ASSURANCE-AND-SECURITY/assets/146160055/49fb376b-f0dc-4ae8-9827-6446e6dbd6a7)
 
-   * After that RealVNC Reviewer will open then type the ***IP Addreess***
+   * After that RealVNC Reviewer will open then type the ***IP Addreess***, And DONE!
      ![40 1](https://github.com/ha-zee/INFORMATION-ASSURANCE-AND-SECURITY/assets/146160055/de8c6b75-79e2-45f1-a3c3-a7f02bb6ed50)
      ![41 1](https://github.com/ha-zee/INFORMATION-ASSURANCE-AND-SECURITY/assets/146160055/0e3ff8b1-a2e0-4047-9a32-51972a17b403)
