@@ -90,4 +90,5 @@
    * After that RealVNC Reviewer will open then type the ***IP Addreess***
      ![40 1](https://github.com/ha-zee/INFORMATION-ASSURANCE-AND-SECURITY/assets/146160055/de8c6b75-79e2-45f1-a3c3-a7f02bb6ed50)
    * Success!
+     
      ![41 1](https://github.com/ha-zee/INFORMATION-ASSURANCE-AND-SECURITY/assets/146160055/0e3ff8b1-a2e0-4047-9a32-51972a17b403)
