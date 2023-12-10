@@ -16,7 +16,10 @@
 * After you install the Raspberry Pi Imager. Put the SD card you'll use with your Raspberry Pi into the reader and run Raspberry Pi Imager.
 ![1 2](https://github.com/ha-zee/INFORMATION-ASSURANCE-AND-SECURITY/assets/146160055/2201f9d9-1432-4e5d-985b-f978c9346938)
 
-* In this project, we choose ***Raspberry Pi 3*** for Raspberry Pi Device, ***Raspberry Pi OS (Legacy)*** for Operating System, and for storage choose your SD Card.
+* In this project, we choose ***Raspberry Pi 3*** for Raspberry Pi Device, ***Raspberry Pi OS (Legacy)*** for Operating System, and for storage choose your SD Card. And click **NEXT**.
 ![1 3](https://github.com/ha-zee/INFORMATION-ASSURANCE-AND-SECURITY/assets/146160055/a015b2fb-0961-4ade-9031-6d571aff7ead)
 ![1 4](https://github.com/ha-zee/INFORMATION-ASSURANCE-AND-SECURITY/assets/146160055/53d5f4ee-3f27-4e01-9292-8ab22754c123)
 ![1 5](https://github.com/ha-zee/INFORMATION-ASSURANCE-AND-SECURITY/assets/146160055/6bbcab7e-0b2d-4fa5-97e4-7fed01b1484f)
+
+* And after clicking **NEXT**, the OS Customisation will ask if you would like to apply OS customisation seetings just click ***Edit Settings*** to customize the OS Settings.
+![1 6](https://github.com/ha-zee/INFORMATION-ASSURANCE-AND-SECURITY/assets/146160055/c5e72ce7-88fa-4949-9cc3-0594d3721d33)
