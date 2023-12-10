@@ -24,17 +24,19 @@
 * And after clicking **NEXT**, the OS Customisation will ask if you would like to apply OS customisation settings just click ***Edit Settings*** to customize the OS Settings.
 ![1 6](https://github.com/ha-zee/INFORMATION-ASSURANCE-AND-SECURITY/assets/146160055/c5e72ce7-88fa-4949-9cc3-0594d3721d33)
 
-* In the OS Customization, in _GENERAL_ we need to set hostname, username and password (_admin_). Also, set Configure wireless LAN the **CSPC BayanihanET** and set the wireless LAN country ro **PH** and set the locale settings the **SAVE**.
+* In the OS Customization, in _GENERAL_ we need to set hostname, username (_group9_) and password (_admin_). Also, set Configure wireless LAN the **CSPC BayanihanET** and set the wireless LAN country ro **PH** and set the locale settings then **SAVE**.
+  > [!NOTE]
+> Do not change the password of the wireless LAN in your OS customisation.
 ![Screenshot 2023-12-10 161439](https://github.com/ha-zee/INFORMATION-ASSURANCE-AND-SECURITY/assets/146160055/c3f16873-883f-49fb-885f-b35713ff26ad)
 
 * Click _SERVICES_ to enable SSH and use password authentication, then **SAVE**.
 ![Screenshot 2023-12-10 161622](https://github.com/ha-zee/INFORMATION-ASSURANCE-AND-SECURITY/assets/146160055/4c0baf89-ee79-4880-a7fa-d1b8a18f17a8)
 
-*
+* Click **YES** to apply our customisation setting.
 ![Screenshot 2023-12-10 161647](https://github.com/ha-zee/INFORMATION-ASSURANCE-AND-SECURITY/assets/146160055/4a143d0c-845a-4290-9db3-107d5087b9b7)
 
 *
-![Screenshot 2023-12-10 161709](https://github.com/ha-zee/INFORMATION-ASSURANCE-AND-SECURITY/assets/146160055/8e0d89c5-3794-4e5b-9365-d56de37de655)
+![Screenshot 2023-12-10 161709](https://github.com/ha-zee/INFORMATION-ASSURANCE-AND-SECURITY/assets/146160055/1c2403d0-94db-4ea3-a611-9e9bf42ecbe3)
 
 *
 ![Screenshot 2023-12-10 161736](https://github.com/ha-zee/INFORMATION-ASSURANCE-AND-SECURITY/assets/146160055/8d6a747a-3754-4f47-a00b-2190c2395cac)
