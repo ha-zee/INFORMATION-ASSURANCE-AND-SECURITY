@@ -1,4 +1,4 @@
-![3 1](https://github.com/ha-zee/INFORMATION-ASSURANCE-AND-SECURITY/assets/146160055/32756574-59f0-4c47-b7ff-dc03936f3e91)# INFORMATION ASSURANCE AND SECURITY - FINAL PROJECT
+# INFORMATION ASSURANCE AND SECURITY - FINAL PROJECT
 
  **Group 9 - BSCS 3A**
 * Hazel A. Llorente
@@ -76,6 +76,18 @@
 ## 4. Enabling and controlling Raspberry Pi using VNC.
 
   * Access the Raspberry Pi Configuration to enable VNC on the OS type ***sudo raspi-config*** command.
+    ![39 1](https://github.com/ha-zee/INFORMATION-ASSURANCE-AND-SECURITY/assets/146160055/e36a9268-20fa-4652-96d1-0968f61c2930)
   * Download and Install RealVNC on your windows. Here is the link [RealVNC](https://www.realvnc.com/en/connect/download/viewer/).
-    
+    ![33 1](https://github.com/ha-zee/INFORMATION-ASSURANCE-AND-SECURITY/assets/146160055/957a18f9-a5b7-4e9d-966f-09ea47a9309b)
 
+  * After the installation, proceed to the next step of configuring **VNC** follow the picture bellow:
+    ![34](https://github.com/ha-zee/INFORMATION-ASSURANCE-AND-SECURITY/assets/146160055/d1c627f4-6f1b-47ac-84d5-75a9423e1bd8)
+    ![35](https://github.com/ha-zee/INFORMATION-ASSURANCE-AND-SECURITY/assets/146160055/09e68589-1edb-4b67-91ce-74a72db161aa)
+    ![36](https://github.com/ha-zee/INFORMATION-ASSURANCE-AND-SECURITY/assets/146160055/6ceafad7-eec2-444d-a1ac-525d1d548f07)
+    ![37](https://github.com/ha-zee/INFORMATION-ASSURANCE-AND-SECURITY/assets/146160055/0bf208f9-d2b0-4b12-aa72-805677bfd102)
+    ![38](https://github.com/ha-zee/INFORMATION-ASSURANCE-AND-SECURITY/assets/146160055/49fb376b-f0dc-4ae8-9827-6446e6dbd6a7)
+
+   * After that RealVNC Reviewer will open then type the ***IP Addreess***
+     ![40 1](https://github.com/ha-zee/INFORMATION-ASSURANCE-AND-SECURITY/assets/146160055/de8c6b75-79e2-45f1-a3c3-a7f02bb6ed50)
+   * Success!
+     ![41 1](https://github.com/ha-zee/INFORMATION-ASSURANCE-AND-SECURITY/assets/146160055/0e3ff8b1-a2e0-4047-9a32-51972a17b403)
