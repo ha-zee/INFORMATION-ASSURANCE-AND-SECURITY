@@ -5,3 +5,7 @@
 * Derick Emmanuel Marpuri
 * Mariana Jane Ramos
 * Ellyza Mae Periabras
+
+## STEP-BY-STEP DOCUMENTATION
+
+1. **Prepare and Install Headless Raspbian OS in Raspberry Pi**
