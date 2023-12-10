@@ -41,8 +41,18 @@
 * A waring will appear that all existing data on your SD Card will be arased and asking if you want to continue for installation. Click **YES** to proceed since our SD Card have no existing files.
 ![Screenshot 2023-12-10 161709](https://github.com/ha-zee/INFORMATION-ASSURANCE-AND-SECURITY/assets/146160055/1c2403d0-94db-4ea3-a611-9e9bf42ecbe3)
 
-*
+* Then the OS writing on your SD card will start and wait until the verification done to be write succesfylly. 
 ![Screenshot 2023-12-10 161736](https://github.com/ha-zee/INFORMATION-ASSURANCE-AND-SECURITY/assets/146160055/8d6a747a-3754-4f47-a00b-2190c2395cac)
 
 
+**2. Connect to Raspberry Pi via SSH using the terminal then update the OS.**
+* Open command prompt and type the following command to update and upgrade:
+  * ssh <username>@<hostname>
+    * Example: ssh group9@172.18.90.149
+  ![1](https://github.com/ha-zee/INFORMATION-ASSURANCE-AND-SECURITY/assets/146160055/4e76ce6c-7fa0-4fa6-b74a-eab50834c82f)
 
+  * sudo  apt update
+  ![2 1](https://github.com/ha-zee/INFORMATION-ASSURANCE-AND-SECURITY/assets/146160055/9e5fbaa0-0b92-461e-8acd-e2753e7c2f9b)
+
+  * sudo apt upgrade
+  ![2 2](https://github.com/ha-zee/INFORMATION-ASSURANCE-AND-SECURITY/assets/146160055/338d36ea-c535-41aa-afca-269eb02ad23d)
