@@ -21,5 +21,24 @@
 ![1 4](https://github.com/ha-zee/INFORMATION-ASSURANCE-AND-SECURITY/assets/146160055/53d5f4ee-3f27-4e01-9292-8ab22754c123)
 ![1 5](https://github.com/ha-zee/INFORMATION-ASSURANCE-AND-SECURITY/assets/146160055/6bbcab7e-0b2d-4fa5-97e4-7fed01b1484f)
 
-* And after clicking **NEXT**, the OS Customisation will ask if you would like to apply OS customisation seetings just click ***Edit Settings*** to customize the OS Settings.
+* And after clicking **NEXT**, the OS Customisation will ask if you would like to apply OS customisation settings just click ***Edit Settings*** to customize the OS Settings.
 ![1 6](https://github.com/ha-zee/INFORMATION-ASSURANCE-AND-SECURITY/assets/146160055/c5e72ce7-88fa-4949-9cc3-0594d3721d33)
+
+*
+![Screenshot 2023-12-10 161439](https://github.com/ha-zee/INFORMATION-ASSURANCE-AND-SECURITY/assets/146160055/c3f16873-883f-49fb-885f-b35713ff26ad)
+
+*
+![Screenshot 2023-12-10 161622](https://github.com/ha-zee/INFORMATION-ASSURANCE-AND-SECURITY/assets/146160055/4c0baf89-ee79-4880-a7fa-d1b8a18f17a8)
+
+*
+![Screenshot 2023-12-10 161647](https://github.com/ha-zee/INFORMATION-ASSURANCE-AND-SECURITY/assets/146160055/4a143d0c-845a-4290-9db3-107d5087b9b7)
+
+*
+![Screenshot 2023-12-10 161709](https://github.com/ha-zee/INFORMATION-ASSURANCE-AND-SECURITY/assets/146160055/8e0d89c5-3794-4e5b-9365-d56de37de655)
+
+*
+![Screenshot 2023-12-10 161736](https://github.com/ha-zee/INFORMATION-ASSURANCE-AND-SECURITY/assets/146160055/8d6a747a-3754-4f47-a00b-2190c2395cac)
+
+*
+![Screenshot 2023-12-10 162421](https://github.com/ha-zee/INFORMATION-ASSURANCE-AND-SECURITY/assets/146160055/c4afddc5-1503-4dad-95e3-0850f622a50e)
+
