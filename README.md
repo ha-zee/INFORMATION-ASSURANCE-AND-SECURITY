@@ -35,12 +35,13 @@
 * Click **YES** to apply our customisation setting.
 ![Screenshot 2023-12-10 161647](https://github.com/ha-zee/INFORMATION-ASSURANCE-AND-SECURITY/assets/146160055/4a143d0c-845a-4290-9db3-107d5087b9b7)
 
-*
+> [!WARNING]
+> If your SD Card has important existing files, make sure to backup all data to avoid deletion while formatting.
+* A waring will appear that all existing data on your SD Card will be arased and asking if you want to continue for installation. Click **YES** to proceed since our SD Card have no existing files.
 ![Screenshot 2023-12-10 161709](https://github.com/ha-zee/INFORMATION-ASSURANCE-AND-SECURITY/assets/146160055/1c2403d0-94db-4ea3-a611-9e9bf42ecbe3)
 
 *
 ![Screenshot 2023-12-10 161736](https://github.com/ha-zee/INFORMATION-ASSURANCE-AND-SECURITY/assets/146160055/8d6a747a-3754-4f47-a00b-2190c2395cac)
 
-*
-![Screenshot 2023-12-10 162421](https://github.com/ha-zee/INFORMATION-ASSURANCE-AND-SECURITY/assets/146160055/c4afddc5-1503-4dad-95e3-0850f622a50e)
+
 
